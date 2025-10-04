@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-BlossomApplication<blossom>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.store.blossom.BlossomApplication",
+            "projectName": "blossom",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
